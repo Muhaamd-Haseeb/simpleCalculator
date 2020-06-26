@@ -1,0 +1,33 @@
+.calculatorHeader{
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 40px;
+    font-family: cursive;
+    font-size: xxx-large;
+
+}
+.container{
+    margin: 0 auto;
+    width: 130px;
+
+    text-align: center;
+    background-color: blueviolet;
+}
+button{
+    background-color: white;
+    color: black;
+    width: 25px;
+    text-align: center;
+}
+.row{
+    margin-bottom: 5px;
+    width: 130px;
+}
+.texting{
+    width: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.lastRow{
+    padding-bottom: 10px;
+}
